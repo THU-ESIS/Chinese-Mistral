@@ -51,7 +51,7 @@ model_path = "itpossible/Chinese-Mistral-7B-v0.1"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.bfloat16, device_map=device)
 
-text = "你是一个人工智能助手，写一段自我介绍："
+text = "我是一个人工智能助手，我能够帮助你做如下这些事情："
 inputs = tokenizer(text, return_tensors="pt").to(device)
 
 outputs = model.generate(**inputs, max_new_tokens=300)
