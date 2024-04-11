@@ -77,7 +77,7 @@ outputs_id = model.generate(inputs, max_new_tokens=300, do_sample=True)
 outputs = tokenizer.batch_decode(outputs_id, skip_special_tokens=True)[0]
 print(outputs)
 ```
-Chinese-Mistral-7B 与Chinese-Mistral-7B-Instruct-v0.1生成效果示例如下：
+Chinese-Mistral-7B 与Chinese-Mistral-7B-Instruct生成效果示例如下：
 
 |     模型名称    	|      Chinese-Mistral-7B    	|     Chinese-Mistral-7B-Instruct    	|
 |---	|---	|---	|
@@ -138,11 +138,11 @@ Chinese-Mistral-7B的开发旨在为开源社区提供一个性能优越的中�
 
 ## ✒️ 引用
 
-如果您觉得本项目对您的研究有所帮助或使用了本项目的，请引用本项目：
+如果您觉得本项目对您的研究有所帮助或使用了本项目的模型，请引用本项目：
 
 ```bibtex
 @misc{Chinese-Mistral,
-    author = {Zhou, Chen and Yiqi, Bai},
+    author = {Zhou, Chen and Yuqi, Bai},
     title = {Chinese-Mistral: An Efficient and Effective Chinese Large Language Model},
     year = {2024},
     publisher = {GitHub},
