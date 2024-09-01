@@ -18,9 +18,10 @@
 </div>
 
 ## 🎉 新闻
+- [2024-08-31] 发布[Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
 - [2024-06-30] 发布[JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
-- [2024-04-04] 发布Chinese-Mistral指令精调模型。
-- [2024-03-31] 发布Chinese-Mistral基座模型。
+- [2024-04-04] 发布[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)。
+- [2024-03-31] 发布[Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B)基座模型。
 
 ## 🚀 介绍
 
@@ -35,7 +36,9 @@
 |             模型             |                                     下载地址                                      |                                                         说明                                                          |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
 |     Chinese-Mistral-7B     |     [HuggingFace](https://huggingface.co/itpossible/Chinese-Mistral-7B-v0.1)<br>[wisemodel](https://wisemodel.cn/models/itpossible/Chinese-Mistral-7B-v0.1)<br>[ModelScope](https://www.modelscope.cn/models/itpossible/Chinese-Mistral-7B-v0.1)     |                                                  完整基座模型                                                  |
-| Chinese-Mistral-7B-Instruct | [HuggingFace](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)<br>[wisemodel](https://wisemodel.cn/models/itpossible/Chinese-Mistral-7B-Instruct-v0.1)<br>[ModelScope](https://www.modelscope.cn/models/itpossible/Chinese-Mistral-7B-Instruct-v0.1) | 完整指令精调模型<br>中英文alpaca_gpt4进行lora微调|
+| Chinese-Mistral-7B-Instruct-v0.1 | [HuggingFace](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)<br>[wisemodel](https://wisemodel.cn/models/itpossible/Chinese-Mistral-7B-Instruct-v0.1)<br>[ModelScope](https://www.modelscope.cn/models/itpossible/Chinese-Mistral-7B-Instruct-v0.1) | 完整指令精调模型<br>中英文alpaca_gpt4进行lora微调|
+| Chinese-Mistral-7B-Instruct-v0.2 | [HuggingFace](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2)<br>[wisemodel](https://wisemodel.cn/models/itpossible/Chinese-Mistral-7B-Instruct-v0.2)<br> | 完整指令精调模型<br>百万条高质量数据进行lora微调|
+
 
 ## 💻 模型推理
 
