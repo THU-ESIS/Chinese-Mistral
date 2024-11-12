@@ -70,7 +70,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 device = torch.device("cuda:0") if torch.cuda.is_available() else torch.device("cpu")
 
-model_path = "itpossible/C/Chinese-Mistral-7B-Instruct-v0.1"
+model_path = "itpossible/Chinese-Mistral-7B-Instruct-v0.2"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.bfloat16, device_map=device)
 
