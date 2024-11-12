@@ -146,8 +146,8 @@ Chinese-Mistral-7B的开发旨在为开源社区提供一个性能优越的中�
 如果您觉得本项目对您的研究有所帮助或使用了本项目的模型，请引用本项目：
 
 ```bibtex
-@misc{chen2024preparedllm,
-  author = {Chen, Z. and Lin, M. and Wang, Z. and Zang, M. and Bai, Y.},
+@article{chen2024preparedllm,
+  author = {Chen, Zhou and Lin, Ming and Wang, Zimeng and Zang, Mingrun and Bai, Yuqi},
   title = {PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models},
   year = {2024},
   journal = {Big Earth Data},
