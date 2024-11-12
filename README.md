@@ -18,6 +18,8 @@
 </div>
 
 ## 🎉 新闻
+- [2024-10-11] [新文速递|PreparedLLM：高效训练领域大语言模型的“前预训练”框架](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw)。
+- [2024-08-31] 文章[PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159)已被*Big Earth Data*期刊接收。
 - [2024-08-31] 发布[Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
 - [2024-06-30] 发布[JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
 - [2024-04-04] 发布[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)。
@@ -144,6 +146,16 @@ Chinese-Mistral-7B的开发旨在为开源社区提供一个性能优越的中�
 如果您觉得本项目对您的研究有所帮助或使用了本项目的模型，请引用本项目：
 
 ```bibtex
+@misc{chen2024preparedllm,
+  author = {Chen, Z. and Lin, M. and Wang, Z. and Zang, M. and Bai, Y.},
+  title = {PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models},
+  year = {2024},
+  journal = {Big Earth Data},
+  pages = {1--24},
+  doi = {10.1080/20964471.2024.2396159},
+  url = {https://doi.org/10.1080/20964471.2024.2396159}
+}
+
 @misc{Chinese-Mistral,
     author = {Zhou, Chen and Yuqi, Bai},
     title = {Chinese-Mistral: An Efficient and Effective Chinese Large Language Model},
