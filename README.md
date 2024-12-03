@@ -22,6 +22,7 @@
 - [2024-08-31] 文章[PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159)已被*Big Earth Data*期刊接收。
 - [2024-08-31] 发布[Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
 - [2024-06-30] 发布[JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
+- [2024-05-15] 推文[中文扩词表增量预训练大语言模型Chinese-Mistral发布](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ)。
 - [2024-04-04] 发布[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)。
 - [2024-03-31] 发布[Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B)基座模型。
 
@@ -157,7 +158,7 @@ Chinese-Mistral-7B的开发旨在为开源社区提供一个性能优越的中�
 }
 
 @misc{Chinese-Mistral,
-    author = {Zhou, Chen and Yuqi, Bai},
+    author = {Chen, Zhou and Bai, Yuqi},
     title = {Chinese-Mistral: An Efficient and Effective Chinese Large Language Model},
     year = {2024},
     publisher = {GitHub},
