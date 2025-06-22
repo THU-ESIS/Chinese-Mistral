@@ -18,13 +18,18 @@
 </div>
 
 ## 🎉 新闻
-- [2024-10-11] [新文速递|PreparedLLM：高效训练领域大语言模型的“前预训练”框架](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw)。
-- [2024-08-31] 文章[PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159)已被*Big Earth Data*期刊接收。
-- [2024-08-31] 发布[Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
-- [2024-06-30] 发布[JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2)对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
-- [2024-05-15] 推文[中文扩词表增量预训练大语言模型Chinese-Mistral发布](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ)。
-- [2024-04-04] 发布[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1)。
-- [2024-03-31] 发布[Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B)基座模型。
+- [2025-05] 文章 [TagRouter: Learning Route to LLMs through Tags for Open-Domain Text Generation Tasks](https://arxiv.org/abs/2506.12473) 已被NLP顶会*ACL*接收。[模型下载地址](https://huggingface.co/itpossible/TagGenerator)。
+- [2025-03] 文章 [GeoFactory: an LLM Performance Enhancement Framework for Geoscience Factual and Inferential Tasks](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2506291) 已被*Big Earth Data*期刊接收。[数据下载地址](https://huggingface.co/datasets/itpossible/WikiRAG)。
+- [2025-03] 文章 [ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries](http://arxiv.org/abs/2506.13796) 已被国际表征学习大会*ICLR*接收。[模型下载地址](https://huggingface.co/itpossible/ClimateChat)。
+- [2024-12] 文章 [JiuZhou: Open Foundation Language Models and Effective Pre-training Framework for Geoscience](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2449708) 已被期刊*International Journal of Digital Earth*接收。[模型介绍](https://deepwiki.com/THU-ESIS/JiuZhou)。[项目地址](https://github.com/THU-ESIS/JiuZhou)。
+- [2024-09] 发布 [ClimateChat](https://huggingface.co/itpossible/ClimateChat) 对话模型。
+- [2024-08] 文章 [PreparedLLM: Effective Pre-pretraining Framework for Domain-specific Large Language Models](https://www.tandfonline.com/doi/full/10.1080/20964471.2024.2396159) 已被期刊*Big Earth Data*接收。[新文速递|PreparedLLM：高效训练领域大语言模型的“前预训练”框架](https://mp.weixin.qq.com/s/ugJQ9tbp6Y87xA3TOWteqw)。[模型下载地址](https://huggingface.co/itpossible/Prepared-Llama)。
+- [2024-08] 发布 [Chinese-Mistral-7B-Instruct-v0.2](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.2) 对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
+- [2024-06] 发布 [JiuZhou-Instruct-v0.2](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.2) 对话模型。语言理解能力大幅提高，并且具备多轮对话能力。
+- [2024-05] 推送 [中文扩词表增量预训练大语言模型Chinese-Mistral发布](https://mp.weixin.qq.com/s/PMQmRCZMWosWMfgKRBjLlQ)。
+- [2024-03] 发布 [Chinese-Mistral-7B-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B) 基座模型，[Chinese-Mistral-7B-Instruct-v0.1](https://huggingface.co/itpossible/Chinese-Mistral-7B-Instruct-v0.1) 对话模型。[模型介绍](https://deepwiki.com/THU-ESIS/Chinese-Mistral). [项目地址](https://huggingface.co/itpossible/Chinese-Mistral)。
+- [2024-03] 发布JiuZhou的base版本 [JiuZhou-base](https://huggingface.co/itpossible/JiuZhou-base)、instruct版本 [JiuZhou-instruct-v0.1](https://huggingface.co/itpossible/JiuZhou-Instruct-v0.1)，以及 [中间检查点](https://huggingface.co/itpossible). [模型介绍](https://deepwiki.com/THU-ESIS/JiuZhou). [项目地址](https://github.com/THU-ESIS/JiuZhou)。
+- [2024-01] 完成Chinese-Mistral和JiuZhou的训练，开展模型评测。
 
 ## 🚀 介绍
 
